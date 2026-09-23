@@ -1,0 +1,21 @@
+ProductKey,ProductName,Category,SubCategory,UnitCost,UnitPrice
+1,Aurora X5 5G,Smartphone,Flagship,9800000,13999000
+2,Aurora A3,Smartphone,Mid-range,3100000,4499000
+3,Aurora Lite,Smartphone,Entry,1450000,1999000
+4,Nimbus Pro Tab 11,Tablet,Premium,6200000,8999000
+5,Nimbus Tab 10,Tablet,Standard,2900000,3999000
+6,PulseFit Watch 3,Wearable,Smartwatch,1350000,2199000
+7,PulseFit Band 2,Wearable,Fitness Band,280000,499000
+8,EchoBuds Pro,Audio,TWS Earbuds,420000,799000
+9,EchoBuds Air,Audio,TWS Earbuds,190000,349000
+10,SoundWave Speaker,Audio,Speaker,310000,599000
+11,VoltCharge 65W,Accessory,Charger,85000,199000
+12,VoltBank 20000,Accessory,Power Bank,120000,299000
+13,ClearCase Aurora X5,Accessory,Case,25000,89000
+14,GuardGlass Universal,Accessory,Screen Protector,12000,59000
+15,SwiftRouter AX3000,Networking,Wi-Fi Router,480000,899000
+16,SwiftMesh Duo,Networking,Mesh System,920000,1599000
+17,NetExtend Repeater,Networking,Range Extender,150000,329000
+18,VisionCam 2K,Smart Home,Security Camera,320000,649000
+19,SmartPlug Mini,Smart Home,Smart Plug,75000,169000
+20,GlowBulb RGB,Smart Home,Smart Light,55000,129000

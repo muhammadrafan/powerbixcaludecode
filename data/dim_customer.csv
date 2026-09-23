@@ -1,0 +1,301 @@
+CustomerKey,CustomerName,Segment,RegionKey,JoinDate
+1,Toko Firmansyah Elektronik,SME/UMKM,2,2023-06-17
+2,Agus Cahyono,Consumer,1,2022-07-19
+3,Toko Nugroho Elektronik,SME/UMKM,1,2024-11-24
+4,UD Cahyono Store,SME/UMKM,3,2023-01-21
+5,Rina Firmansyah,Consumer,1,2022-09-10
+6,PT Halim Nusantara,Corporate,1,2024-02-12
+7,Toko Kusuma Gadget,SME/UMKM,8,2023-01-20
+8,PT Pratama Gadget,SME/UMKM,8,2024-10-06
+9,Rina Pratama,Consumer,8,2023-08-18
+10,Fajar Utomo,Consumer,2,2022-06-05
+11,Rizki Halim,Consumer,12,2025-01-07
+12,PT Halim Digital,Corporate,6,2023-10-28
+13,CV Firmansyah Gadget,SME/UMKM,1,2023-02-18
+14,CV Halim Cell,SME/UMKM,1,2024-04-08
+15,Sari Kusuma,Consumer,7,2023-11-13
+16,Putri Firmansyah,Consumer,1,2022-06-30
+17,Hendra Rahayu,Consumer,4,2024-06-29
+18,Hendra Cahyono,Consumer,18,2023-07-07
+19,CV Firmansyah Gadget,SME/UMKM,1,2024-04-30
+20,CV Permata Store,SME/UMKM,1,2024-11-12
+21,UD Anggraini Elektronik,SME/UMKM,18,2024-02-01
+22,Rizki Cahyono,Consumer,6,2024-04-02
+23,PT Permata Digital,Corporate,1,2023-02-10
+24,PT Firmansyah Nusantara,Corporate,12,2023-01-24
+25,PT Nugroho Cell,SME/UMKM,12,2023-07-21
+26,Eko Santoso,Consumer,5,2024-09-30
+27,Rizki Permata,Consumer,6,2023-11-07
+28,Sari Anggraini,Consumer,2,2023-05-15
+29,Lestari Puspita,Consumer,1,2024-07-19
+30,PT Setiawan Elektronik,SME/UMKM,6,2024-10-01
+31,Toko Wijaya Elektronik,SME/UMKM,2,2024-11-19
+32,PT Rahayu Digital,Corporate,7,2023-03-26
+33,Siti Anggraini,Consumer,10,2024-05-10
+34,Hendra Rahayu,Consumer,1,2024-01-12
+35,Agus Setiawan,Consumer,6,2023-08-23
+36,Intan Pratama,Consumer,1,2023-07-02
+37,Wawan Saputra,Consumer,12,2022-09-23
+38,Maya Saputra,Consumer,2,2023-03-02
+39,Nur Setiawan,Consumer,6,2023-12-02
+40,UD Puspita Store,SME/UMKM,5,2024-11-03
+41,Siti Kusuma,Consumer,3,2024-10-14
+42,Toko Permata Cell,SME/UMKM,7,2022-12-05
+43,PT Anggraini Elektronik,SME/UMKM,8,2024-04-10
+44,Dewi Pratama,Consumer,5,2022-08-24
+45,PT Permata Cell,SME/UMKM,8,2024-04-06
+46,Toko Anggraini Gadget,SME/UMKM,17,2023-05-08
+47,Sari Anggraini,Consumer,3,2023-08-24
+48,Eko Firmansyah,Consumer,4,2024-05-18
+49,UD Firmansyah Elektronik,SME/UMKM,1,2023-07-30
+50,Rina Kusuma,Consumer,9,2024-08-16
+51,Maya Pratama,Consumer,4,2023-11-16
+52,Hendra Cahyono,Consumer,3,2025-02-23
+53,PT Firmansyah Cell,SME/UMKM,1,2024-02-29
+54,Toko Wijaya Gadget,SME/UMKM,12,2023-03-24
+55,Toko Rahayu Gadget,SME/UMKM,3,2024-07-15
+56,UD Firmansyah Cell,SME/UMKM,7,2023-07-13
+57,Sari Rahayu,Consumer,1,2023-11-17
+58,Andi Firmansyah,Consumer,16,2022-10-15
+59,Lestari Cahyono,Consumer,1,2022-09-28
+60,Nur Utomo,Consumer,1,2023-12-27
+61,CV Firmansyah Gadget,SME/UMKM,11,2022-12-04
+62,Bayu Nugroho,Consumer,14,2025-02-22
+63,Andi Pratama,Consumer,1,2024-10-03
+64,UD Pratama Cell,SME/UMKM,3,2024-05-01
+65,UD Permata Gadget,SME/UMKM,8,2024-06-04
+66,Eko Halim,Consumer,12,2024-01-17
+67,Agus Rahayu,Consumer,3,2022-07-31
+68,Dewi Permata,Consumer,4,2023-06-28
+69,Hendra Setiawan,Consumer,8,2023-10-09
+70,Ayu Firmansyah,Consumer,8,2024-12-02
+71,Dimas Anggraini,Consumer,9,2023-01-06
+72,Agus Halim,Consumer,6,2023-10-10
+73,Toko Setiawan Cell,SME/UMKM,1,2023-05-11
+74,Eko Cahyono,Consumer,13,2022-10-13
+75,Intan Saputra,Consumer,12,2022-09-12
+76,Agus Nugroho,Consumer,9,2023-06-01
+77,Lestari Puspita,Consumer,1,2022-08-22
+78,Toko Wijaya Cell,SME/UMKM,1,2022-08-07
+79,Rina Permata,Consumer,8,2023-05-17
+80,PT Rahayu Elektronik,SME/UMKM,1,2022-12-19
+81,PT Wijaya Gadget,SME/UMKM,17,2023-12-07
+82,Eko Cahyono,Consumer,3,2022-06-18
+83,CV Nugroho Store,SME/UMKM,8,2023-03-29
+84,Rina Nugroho,Consumer,12,2023-08-28
+85,Fajar Santoso,Consumer,3,2025-01-19
+86,Andi Anggraini,Consumer,2,2024-02-25
+87,UD Firmansyah Store,SME/UMKM,6,2024-10-28
+88,Bayu Wijaya,Consumer,6,2023-05-10
+89,Ayu Setiawan,Consumer,3,2023-08-24
+90,Budi Puspita,Consumer,6,2023-07-26
+91,Sari Nugroho,Consumer,14,2024-11-04
+92,UD Cahyono Cell,SME/UMKM,3,2025-01-15
+93,Agus Utomo,Consumer,1,2025-01-18
+94,Intan Santoso,Consumer,3,2024-06-21
+95,Sari Pratama,Consumer,3,2023-10-17
+96,Toko Utomo Cell,SME/UMKM,1,2023-11-23
+97,Sari Puspita,Consumer,1,2025-02-05
+98,Lestari Santoso,Consumer,7,2023-03-12
+99,Rizki Kusuma,Consumer,3,2023-05-13
+100,PT Saputra Sejahtera,Corporate,15,2024-11-13
+101,PT Cahyono Nusantara,Corporate,2,2023-06-22
+102,UD Pratama Cell,SME/UMKM,1,2023-01-22
+103,Hendra Nugroho,Consumer,8,2023-12-13
+104,PT Utomo Jaya,Corporate,12,2023-04-22
+105,PT Santoso Cell,SME/UMKM,2,2024-11-07
+106,PT Santoso Store,SME/UMKM,1,2024-11-26
+107,Dimas Setiawan,Consumer,1,2023-04-03
+108,Wawan Setiawan,Consumer,4,2023-11-12
+109,Rizki Nugroho,Consumer,3,2025-02-08
+110,PT Cahyono Makmur,Corporate,2,2024-06-12
+111,Siti Rahayu,Consumer,1,2023-01-02
+112,Wawan Setiawan,Consumer,4,2024-01-12
+113,Hendra Wijaya,Consumer,15,2024-02-10
+114,Nur Cahyono,Consumer,7,2024-03-15
+115,Sari Cahyono,Consumer,4,2022-06-26
+116,UD Saputra Cell,SME/UMKM,1,2023-03-27
+117,CV Kusuma Cell,SME/UMKM,2,2024-10-02
+118,PT Rahayu Elektronik,SME/UMKM,2,2023-01-28
+119,Bayu Firmansyah,Consumer,8,2023-03-27
+120,Toko Utomo Cell,SME/UMKM,12,2023-04-19
+121,Lestari Saputra,Consumer,13,2022-11-25
+122,PT Cahyono Elektronik,SME/UMKM,18,2022-11-03
+123,Siti Pratama,Consumer,17,2023-05-14
+124,Budi Nugroho,Consumer,15,2024-10-22
+125,Siti Rahayu,Consumer,1,2022-06-02
+126,Bayu Setiawan,Consumer,1,2023-03-11
+127,Eko Utomo,Consumer,2,2022-07-31
+128,Bayu Santoso,Consumer,5,2023-12-14
+129,Siti Utomo,Consumer,1,2023-02-06
+130,Budi Santoso,Consumer,11,2024-07-31
+131,Rizki Puspita,Consumer,6,2024-01-07
+132,PT Saputra Nusantara,Corporate,5,2024-07-23
+133,Fajar Pratama,Consumer,1,2024-02-25
+134,Ayu Wijaya,Consumer,2,2023-08-13
+135,Nur Pratama,Consumer,1,2024-10-08
+136,Ayu Setiawan,Consumer,11,2023-09-20
+137,PT Permata Digital,Corporate,6,2025-01-05
+138,Bayu Firmansyah,Consumer,8,2025-02-19
+139,CV Utomo Store,SME/UMKM,2,2024-01-11
+140,Maya Saputra,Consumer,3,2024-04-05
+141,Agus Kusuma,Consumer,3,2023-02-11
+142,Hendra Permata,Consumer,8,2024-08-23
+143,PT Nugroho Digital,Corporate,9,2024-04-02
+144,Maya Permata,Consumer,1,2024-11-19
+145,Sari Kusuma,Consumer,14,2023-02-23
+146,Dimas Saputra,Consumer,1,2024-07-27
+147,Hendra Pratama,Consumer,12,2023-09-14
+148,Agus Saputra,Consumer,1,2022-12-03
+149,Bayu Rahayu,Consumer,2,2022-11-19
+150,Fajar Puspita,Consumer,11,2023-12-15
+151,CV Wijaya Cell,SME/UMKM,1,2023-04-16
+152,PT Setiawan Sejahtera,Corporate,3,2022-09-10
+153,Hendra Nugroho,Consumer,3,2023-08-02
+154,Siti Nugroho,Consumer,2,2024-03-14
+155,Dimas Saputra,Consumer,8,2023-04-15
+156,UD Utomo Gadget,SME/UMKM,11,2025-01-11
+157,Dimas Setiawan,Consumer,12,2024-07-19
+158,CV Pratama Gadget,SME/UMKM,3,2023-10-26
+159,UD Kusuma Store,SME/UMKM,4,2024-12-21
+160,Toko Utomo Gadget,SME/UMKM,2,2023-08-07
+161,Hendra Santoso,Consumer,2,2022-10-18
+162,PT Nugroho Digital,Corporate,1,2022-07-06
+163,Rina Anggraini,Consumer,14,2024-12-25
+164,Agus Kusuma,Consumer,12,2025-01-15
+165,Siti Permata,Consumer,9,2024-06-09
+166,Ayu Permata,Consumer,4,2022-09-12
+167,Toko Rahayu Elektronik,SME/UMKM,4,2023-03-21
+168,Toko Permata Elektronik,SME/UMKM,4,2022-07-12
+169,Dimas Nugroho,Consumer,5,2022-07-22
+170,PT Kusuma Nusantara,Corporate,3,2023-02-02
+171,Andi Permata,Consumer,1,2023-12-25
+172,Dewi Saputra,Consumer,1,2022-08-05
+173,Bayu Utomo,Consumer,15,2025-02-09
+174,PT Anggraini Makmur,Corporate,4,2023-08-30
+175,Intan Anggraini,Consumer,15,2023-02-19
+176,Wawan Firmansyah,Consumer,1,2023-10-30
+177,Maya Puspita,Consumer,5,2024-07-30
+178,PT Wijaya Jaya,Corporate,1,2023-04-09
+179,PT Cahyono Digital,Corporate,2,2022-07-18
+180,Toko Anggraini Gadget,SME/UMKM,1,2022-07-21
+181,PT Firmansyah Makmur,Corporate,1,2024-09-29
+182,PT Nugroho Digital,Corporate,14,2022-09-20
+183,Wawan Halim,Consumer,2,2024-02-26
+184,Rina Santoso,Consumer,6,2023-06-20
+185,PT Santoso Cell,SME/UMKM,3,2024-07-17
+186,UD Cahyono Store,SME/UMKM,3,2022-07-31
+187,Siti Wijaya,Consumer,5,2024-11-14
+188,Putri Permata,Consumer,1,2024-04-29
+189,CV Anggraini Cell,SME/UMKM,18,2023-08-24
+190,Eko Nugroho,Consumer,10,2022-12-25
+191,PT Santoso Nusantara,Corporate,8,2025-02-02
+192,Hendra Santoso,Consumer,3,2023-03-30
+193,Fajar Cahyono,Consumer,1,2023-10-04
+194,Toko Cahyono Gadget,SME/UMKM,14,2023-06-30
+195,Ayu Rahayu,Consumer,3,2023-01-17
+196,Dewi Kusuma,Consumer,1,2023-07-22
+197,Dimas Rahayu,Consumer,3,2022-10-30
+198,PT Anggraini Gadget,SME/UMKM,9,2022-06-02
+199,Bayu Setiawan,Consumer,6,2023-03-17
+200,Siti Setiawan,Consumer,8,2022-09-21
+201,CV Firmansyah Gadget,SME/UMKM,9,2023-07-20
+202,PT Nugroho Nusantara,Corporate,1,2024-10-10
+203,Sari Pratama,Consumer,14,2022-11-10
+204,Eko Firmansyah,Consumer,3,2022-06-02
+205,Ayu Puspita,Consumer,7,2022-09-20
+206,Dimas Halim,Consumer,1,2023-10-22
+207,Budi Rahayu,Consumer,18,2023-03-02
+208,PT Firmansyah Elektronik,SME/UMKM,2,2023-10-03
+209,Rina Pratama,Consumer,1,2022-06-30
+210,Eko Pratama,Consumer,3,2023-04-30
+211,CV Cahyono Store,SME/UMKM,1,2023-07-16
+212,Intan Setiawan,Consumer,1,2023-08-06
+213,Maya Kusuma,Consumer,6,2023-12-04
+214,UD Cahyono Store,SME/UMKM,3,2024-07-20
+215,Toko Pratama Elektronik,SME/UMKM,14,2023-09-11
+216,CV Cahyono Gadget,SME/UMKM,2,2024-09-19
+217,Andi Wijaya,Consumer,8,2023-11-12
+218,Wawan Firmansyah,Consumer,3,2023-02-16
+219,PT Santoso Digital,Corporate,7,2023-01-16
+220,Rina Anggraini,Consumer,6,2023-04-19
+221,Hendra Pratama,Consumer,3,2024-01-19
+222,Andi Pratama,Consumer,15,2023-01-29
+223,PT Puspita Store,SME/UMKM,3,2024-12-01
+224,PT Santoso Nusantara,Corporate,1,2023-09-23
+225,Rizki Pratama,Consumer,7,2024-10-11
+226,PT Nugroho Sejahtera,Corporate,11,2024-04-14
+227,Rina Setiawan,Consumer,1,2023-04-30
+228,Maya Rahayu,Consumer,3,2023-01-15
+229,CV Santoso Cell,SME/UMKM,12,2024-06-13
+230,Putri Kusuma,Consumer,8,2023-04-27
+231,Wawan Cahyono,Consumer,18,2023-02-02
+232,Lestari Utomo,Consumer,5,2024-12-17
+233,PT Permata Nusantara,Corporate,7,2023-09-26
+234,Fajar Rahayu,Consumer,2,2022-07-19
+235,PT Firmansyah Nusantara,Corporate,15,2023-10-08
+236,Toko Santoso Elektronik,SME/UMKM,3,2023-09-04
+237,Ayu Firmansyah,Consumer,8,2024-10-11
+238,Toko Puspita Gadget,SME/UMKM,3,2024-05-12
+239,Hendra Cahyono,Consumer,5,2022-12-09
+240,Andi Anggraini,Consumer,8,2022-10-29
+241,Toko Firmansyah Elektronik,SME/UMKM,4,2024-01-25
+242,UD Halim Elektronik,SME/UMKM,13,2022-07-18
+243,Fajar Puspita,Consumer,3,2023-04-16
+244,Andi Permata,Consumer,7,2022-10-17
+245,PT Cahyono Gadget,SME/UMKM,3,2022-06-21
+246,CV Permata Gadget,SME/UMKM,3,2024-12-05
+247,UD Anggraini Elektronik,SME/UMKM,3,2022-08-29
+248,Agus Santoso,Consumer,1,2022-06-10
+249,Ayu Setiawan,Consumer,1,2024-12-19
+250,Hendra Utomo,Consumer,7,2022-12-06
+251,Toko Halim Cell,SME/UMKM,7,2024-08-25
+252,PT Halim Gadget,SME/UMKM,7,2022-07-02
+253,Dewi Kusuma,Consumer,1,2022-11-01
+254,Budi Utomo,Consumer,2,2022-09-19
+255,Hendra Rahayu,Consumer,1,2024-05-07
+256,CV Saputra Gadget,SME/UMKM,9,2024-02-11
+257,PT Permata Elektronik,SME/UMKM,12,2023-09-19
+258,Budi Saputra,Consumer,2,2023-01-28
+259,Putri Pratama,Consumer,7,2022-08-28
+260,Eko Anggraini,Consumer,1,2023-12-22
+261,Dimas Rahayu,Consumer,2,2023-01-17
+262,UD Cahyono Elektronik,SME/UMKM,1,2024-01-12
+263,Lestari Anggraini,Consumer,2,2024-04-18
+264,Intan Firmansyah,Consumer,7,2024-09-27
+265,PT Utomo Jaya,Corporate,14,2023-10-07
+266,Bayu Rahayu,Consumer,1,2022-06-05
+267,Putri Setiawan,Consumer,5,2023-03-08
+268,Dimas Firmansyah,Consumer,8,2024-10-01
+269,Rina Puspita,Consumer,15,2023-11-16
+270,Siti Wijaya,Consumer,6,2024-02-10
+271,Bayu Rahayu,Consumer,2,2023-09-01
+272,Wawan Saputra,Consumer,6,2022-11-10
+273,Dimas Permata,Consumer,2,2024-11-13
+274,Intan Utomo,Consumer,17,2024-07-12
+275,CV Setiawan Cell,SME/UMKM,3,2025-02-20
+276,Intan Pratama,Consumer,7,2024-10-03
+277,Putri Cahyono,Consumer,1,2023-03-19
+278,Eko Setiawan,Consumer,3,2023-02-10
+279,Toko Utomo Gadget,SME/UMKM,12,2023-02-04
+280,PT Wijaya Gadget,SME/UMKM,6,2024-12-05
+281,Budi Anggraini,Consumer,3,2023-12-09
+282,Nur Setiawan,Consumer,14,2023-08-29
+283,Rina Puspita,Consumer,11,2025-01-24
+284,Intan Cahyono,Consumer,2,2024-01-25
+285,Rina Nugroho,Consumer,5,2024-11-26
+286,Intan Kusuma,Consumer,4,2025-02-09
+287,Fajar Wijaya,Consumer,6,2022-08-19
+288,Nur Utomo,Consumer,2,2023-05-28
+289,Siti Kusuma,Consumer,2,2024-06-04
+290,Maya Permata,Consumer,14,2024-08-22
+291,UD Kusuma Store,SME/UMKM,14,2022-10-27
+292,Fajar Cahyono,Consumer,11,2023-04-15
+293,PT Kusuma Sejahtera,Corporate,17,2023-12-01
+294,Siti Halim,Consumer,8,2024-08-08
+295,UD Santoso Gadget,SME/UMKM,8,2022-09-21
+296,PT Wijaya Jaya,Corporate,8,2024-01-22
+297,PT Rahayu Nusantara,Corporate,4,2023-03-24
+298,Toko Utomo Store,SME/UMKM,3,2023-01-03
+299,PT Cahyono Elektronik,SME/UMKM,1,2023-10-29
+300,Toko Halim Store,SME/UMKM,7,2023-07-20

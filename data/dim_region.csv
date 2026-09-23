@@ -1,0 +1,21 @@
+RegionKey,City,Province,Island,Latitude,Longitude
+1,Jakarta,DKI Jakarta,Jawa,-6.2088,106.8456
+2,Bandung,Jawa Barat,Jawa,-6.9175,107.6191
+3,Surabaya,Jawa Timur,Jawa,-7.2575,112.7521
+4,Semarang,Jawa Tengah,Jawa,-6.9667,110.4167
+5,Yogyakarta,DI Yogyakarta,Jawa,-7.7956,110.3695
+6,Bekasi,Jawa Barat,Jawa,-6.2383,106.9756
+7,Tangerang,Banten,Jawa,-6.1783,106.6319
+8,Medan,Sumatera Utara,Sumatera,3.5952,98.6722
+9,Palembang,Sumatera Selatan,Sumatera,-2.9761,104.7754
+10,Pekanbaru,Riau,Sumatera,0.5071,101.4478
+11,Padang,Sumatera Barat,Sumatera,-0.9471,100.4172
+12,Denpasar,Bali,Bali-Nusa,-8.6705,115.2126
+13,Mataram,Nusa Tenggara Barat,Bali-Nusa,-8.5833,116.1167
+14,Makassar,Sulawesi Selatan,Sulawesi,-5.1477,119.4327
+15,Manado,Sulawesi Utara,Sulawesi,1.4748,124.8421
+16,Balikpapan,Kalimantan Timur,Kalimantan,-1.2379,116.8529
+17,Pontianak,Kalimantan Barat,Kalimantan,0.0,109.3333
+18,Banjarmasin,Kalimantan Selatan,Kalimantan,-3.3186,114.5944
+19,Jayapura,Papua,Papua-Maluku,-2.5337,140.7181
+20,Ambon,Maluku,Papua-Maluku,-3.6954,128.1814
