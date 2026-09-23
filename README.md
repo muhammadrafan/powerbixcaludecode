@@ -138,4 +138,5 @@ Planned executive dashboard:
 **Muhammad Rafan Pradipta (Fan)** — Data Analyst | Microsoft Fabric DP-600 certified
 Data Science graduate, exploring the intersection of AI agents and business intelligence.
 
-📫 [LinkedIn](#) · [GitHub](#)
+📫 [LinkedIn](https://linkedin.com/in/muhammad-rafan-pradi
+pta) · [GitHub](#)
